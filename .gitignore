@@ -1,0 +1,29 @@
+# Compiled/Binary files
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+.gradle/
+build/
+out/
+bin/
+
+# Editor/IDE files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# System/Environment files
+.DS_Store
+Thumbs.db
+.env
+.env.local
+*.env.*
+
+# Logs and temp files
+*.log
+*.tmp
